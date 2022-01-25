@@ -1,7 +1,6 @@
 # HebrewHammer's [drip.community](https://drip.community?buddy=0x4ab746092Fb040DBd02a41DEEb2D6933057eEF13) Setup Guide
+### [Drip Whitepaper](https://drip.community/docs/DRIP_LIGHTPAPER_v0.8_Lit_Version.pdf)
 ![rs_k79pE_400x400](https://user-images.githubusercontent.com/97962028/150979572-1136e90e-9cba-4ad3-beff-03d28613d195.jpg)
-
-Guide on how to join HebrewHammer's drip.community team!
 
 # Disclaimer
 **This guide DOES NOT represent financial advice, and is meant for educational purposes only. USE WITH REAL FUNDS AT YOUR OWN RISK**
