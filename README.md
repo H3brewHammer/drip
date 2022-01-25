@@ -3,7 +3,9 @@
 ![rs_k79pE_400x400](https://user-images.githubusercontent.com/97962028/150979572-1136e90e-9cba-4ad3-beff-03d28613d195.jpg)
 
 # Disclaimer
-**This guide DOES NOT represent financial advice, and is meant for educational purposes only. USE WITH REAL FUNDS AT YOUR OWN RISK**
+**This guide DOES NOT represent financial advice, and is meant for educational purposes only. USE WITH REAL FUNDS AT YOUR OWN RISK**.
+
+The amount of DRIP Deposited is not withdrawable. In exchange you receive 1% of that staked amount on a 24 hr basis for the next 365 days, which can be rehydrated/compounded, or claimed.
 
 # Calculator
 This [calculator](https://docs.google.com/spreadsheets/d/18ysUJAoVQ1uXWnRHWCQ9duIlwQSjFALg-27DX1X33vA/edit?usp=sharing) can be used to forecast potential earnings
