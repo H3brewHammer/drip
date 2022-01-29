@@ -47,3 +47,6 @@ Hydrate (recompound) every day to unleash the power of compouding :rocket: :rock
 
 ### Step 8
 Join the [discord channel](https://discord.gg/UZh2fdkGQV) to chat with the team and participate in weekly airdrops!
+
+### Step 9
+Share your buddy id (wallet id) with your friends!
